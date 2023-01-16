@@ -9,13 +9,11 @@ C++ practice homework for traditional AOI algorithm
 <table>
   <tr>
     <td> <img src = "https://i.imgur.com/FPR0WoU.png" width="400"> </td>
-    <td> <img src = "https://i.imgur.com/xMVL6N1.png" width="400"> </td>
-  </tr>
-  <tr>
     <td> <img src = "https://i.imgur.com/FPR0WoU.png" width="400"> </td>
     <td> <img src = "https://i.imgur.com/xMVL6N1.png" width="400"> </td>
   </tr>
   <tr>
+    <td> <img src = "https://i.imgur.com/FPR0WoU.png" width="400"> </td>
     <td> <img src = "https://i.imgur.com/FPR0WoU.png" width="400"> </td>
     <td> <img src = "https://i.imgur.com/xMVL6N1.png" width="400"> </td>
   </tr>
