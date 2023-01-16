@@ -1,8 +1,8 @@
 # Practice-2022-Cplusplus-AOI
 C++ practice homework for traditional AOI algorithm
 
-## UML (Simple factory)  
-
+## UML (Abstract Simple Factory)  
+<img src = "https://i.imgur.com/c2PE5cU.png" width="800">
 
 ## Smaple demos  
 
