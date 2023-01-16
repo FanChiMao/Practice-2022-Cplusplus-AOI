@@ -39,3 +39,8 @@ C++ practice homework for traditional AOI algorithm
     <td><p align="center"> <b>Flare</b></p></td>
   </tr>
 </table>
+
+## Contact
+If you have any question, feel free to contact qaz5517359@gmail.com  
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cplusplus_homework_github)  
