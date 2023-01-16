@@ -10,7 +10,7 @@ C++ practice homework for traditional AOI algorithm
   DITCameraTest.exe [AOI task (-LS, -BL, -FL)] [Spec file path] [test image path]
   ```
   
-  for example, testing the blemish task, you should enter
+  - For example, testing the blemish task, you should enter
   ```
   DITCameraTest.exe -BL "./DataSet/DITCameraTestApp/CameraSpec.spe" "C://jonathan/blemishNG.jpg"
   ```
