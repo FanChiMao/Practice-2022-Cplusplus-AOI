@@ -6,10 +6,14 @@ C++ practice homework for traditional AOI algorithm
 
 ## Usage  
   - Run and compile the code, then open the terminal on the location of application. And enter the following coomand:  
-  ```DITCameraTest.exe [AOI task (-LS, -BL, -FL)] [Spec file path] [test image path]``` 
+  ```
+  DITCameraTest.exe [AOI task (-LS, -BL, -FL)] [Spec file path] [test image path]
+  ```
   
   for example, testing the blemish task, you should enter
-  ```DITCameraTest.exe -BL "./DataSet/DITCameraTestApp/CameraSpec.spe" "C://jonathan/blemishNG.jpg"```
+  ```
+  DITCameraTest.exe -BL "./DataSet/DITCameraTestApp/CameraSpec.spe" "C://jonathan/blemishNG.jpg"
+  ```
 
 ## Smaple demos  
 
