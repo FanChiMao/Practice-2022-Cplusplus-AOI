@@ -5,7 +5,7 @@ C++ practice homework for traditional AOI algorithm
 <img src = "https://i.imgur.com/c2PE5cU.png" width="800">
 
 ## Usage  
-  - Run and compile the code, then open the terminal on the location of application. And enter the following coomand:  
+  - Run and compile the code, then open the terminal on the location of application. And enter the following command:  
   ```
   DITCameraTest.exe [AOI task (-LS, -BL, -FL)] [Spec file path] [test image path]
   ```
