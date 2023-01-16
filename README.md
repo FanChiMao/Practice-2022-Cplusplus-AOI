@@ -10,7 +10,7 @@ C++ practice homework for traditional AOI algorithm
   <tr>
     <td> <img src = "https://i.imgur.com/8xvJlB5.jpg" width="400"> </td>
     <td> <img src = "https://i.imgur.com/pcpiKVc.jpg" width="400"> </td>
-    <td> <img src = "https://i.imgur.com/xMVL6N1.png" width="400"> </td>
+    <td> <img src = "https://i.imgur.com/Rl3p6O2.jpg" width="400"> </td>
   </tr>
   <tr>
     <td> <img src = "https://i.imgur.com/siRczPw.jpg" width="400"> </td>
